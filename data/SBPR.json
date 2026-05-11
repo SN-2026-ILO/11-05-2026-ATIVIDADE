@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-05-11T12:57:42.020416+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SBPR",
+  "airport_name": "SBPR",
+  "airport_info": {
+    "sg_aerodromo_icao": "SBPR",
+    "sg_aerodromo_iata": "",
+    "descricao": "CARLOS PRATES - BELO HORIZONTE - MG - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [],
+  "departures": []
+}

@@ -1,0 +1,61 @@
+{
+  "updated_at": "2026-05-11T12:57:50.005148+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SBSO",
+  "airport_name": "SBSO",
+  "airport_info": {
+    "sg_aerodromo_icao": "SBSO",
+    "sg_aerodromo_iata": "SMT",
+    "descricao": "REGIONAL DE SORRISO ADOLINO BEDIN (SDSS*) - SORRISO - MT - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [
+    {
+      "callsign": "AZU2815",
+      "numero_voo": "2815",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "E295",
+      "equipamento": "Embraer E195-E2",
+      "assentos": "136",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBKP",
+      "destino_icao": "SBSO",
+      "partida_iso": "2026-05-11T08:20:00-03:00",
+      "chegada_iso": "2026-05-11T10:40:00-03:00",
+      "partida_brt": "08:20",
+      "chegada_brt": "10:40",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBKP",
+      "rota_nome": "Campinas / Viracopos"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "AZU2816",
+      "numero_voo": "2816",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "E295",
+      "equipamento": "Embraer E195-E2",
+      "assentos": "136",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBSO",
+      "destino_icao": "SBKP",
+      "partida_iso": "2026-05-11T11:20:00-03:00",
+      "chegada_iso": "2026-05-11T13:35:00-03:00",
+      "partida_brt": "11:20",
+      "chegada_brt": "13:35",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBKP",
+      "rota_nome": "Campinas / Viracopos"
+    }
+  ]
+}

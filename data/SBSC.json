@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-05-11T12:58:06.854433+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SBSC",
+  "airport_name": "SBSC",
+  "airport_info": {
+    "sg_aerodromo_icao": "SBSC",
+    "sg_aerodromo_iata": "",
+    "descricao": "BARTOLOMEU DE GUSMAO   - RIO DE JANEIRO - RJ - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [],
+  "departures": []
+}

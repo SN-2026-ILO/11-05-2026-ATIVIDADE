@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-05-11T12:58:04.995966+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SBPC",
+  "airport_name": "SBPC",
+  "airport_info": {
+    "sg_aerodromo_icao": "SBPC",
+    "sg_aerodromo_iata": "POO",
+    "descricao": "EMBAIXADOR WALTHER MOREIRA SALLES - POÇOS DE CALDAS - MG - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [],
+  "departures": []
+}

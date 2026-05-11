@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-05-11T12:57:43.852573+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SBMS",
+  "airport_name": "SBMS",
+  "airport_info": {
+    "sg_aerodromo_icao": "SBMS",
+    "sg_aerodromo_iata": "MVF",
+    "descricao": "DIX-SEPT ROSADO - MOSSORÓ - RN - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [],
+  "departures": []
+}

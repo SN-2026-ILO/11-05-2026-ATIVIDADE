@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-05-11T12:58:09.928365+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SBTL",
+  "airport_name": "SBTL",
+  "airport_info": {
+    "sg_aerodromo_icao": "SBTL",
+    "sg_aerodromo_iata": "",
+    "descricao": "TELÊMACO BORBA - TELÊMACO BORBA - PR - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [],
+  "departures": []
+}

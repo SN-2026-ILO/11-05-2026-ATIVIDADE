@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-05-11T12:57:50.626117+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SBTD",
+  "airport_name": "SBTD",
+  "airport_info": {
+    "sg_aerodromo_icao": "SBTD",
+    "sg_aerodromo_iata": "TOW",
+    "descricao": "LUIZ DALCANALE FILHO - TOLEDO - PR - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [],
+  "departures": []
+}
