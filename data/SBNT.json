@@ -1,13 +1,9 @@
 {
-  "updated_at": "2026-05-15T13:25:23.850644+00:00",
+  "updated_at": "2026-05-15T16:46:32.450351+00:00",
   "data_referencia": "2026-05-15",
   "airport_icao": "SBNT",
   "airport_name": "SBNT",
-  "airport_info": {
-    "sg_aerodromo_icao": "SBNT",
-    "sg_aerodromo_iata": "",
-    "descricao": "AUGUSTO SEVERO - PARNAMIRIM - RN - BRASIL"
-  },
+  "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [],
