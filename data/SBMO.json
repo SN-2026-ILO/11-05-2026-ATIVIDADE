@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-05-16T12:55:42.801048+00:00",
+  "updated_at": "2026-05-16T15:46:10.780474+00:00",
   "data_referencia": "2026-05-16",
   "airport_icao": "SBMO",
   "airport_name": "Maceio",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBMO",
+    "sg_aerodromo_iata": "MCZ",
+    "descricao": "ZUMBI DOS PALMARES - MACEIÓ - AL - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
