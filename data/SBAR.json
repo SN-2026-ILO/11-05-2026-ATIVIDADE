@@ -1,13 +1,9 @@
 {
-  "updated_at": "2026-05-16T10:07:23.384417+00:00",
+  "updated_at": "2026-05-16T12:56:12.985251+00:00",
   "data_referencia": "2026-05-16",
   "airport_icao": "SBAR",
   "airport_name": "SBAR",
-  "airport_info": {
-    "sg_aerodromo_icao": "SBAR",
-    "sg_aerodromo_iata": "AJU",
-    "descricao": "SANTA MARIA - ARACAJU - SE - BRASIL"
-  },
+  "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
