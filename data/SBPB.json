@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-16T21:38:49.364704+00:00",
-  "data_referencia": "2026-05-16",
+  "updated_at": "2026-05-17T10:17:10.624697+00:00",
+  "data_referencia": "2026-05-17",
   "airport_icao": "SBPB",
   "airport_name": "SBPB",
   "airport_info": {
@@ -10,52 +10,6 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [
-    {
-      "callsign": "TAM3558",
-      "numero_voo": "3558",
-      "airline_icao": "TAM",
-      "airline": "LATAM",
-      "equipamento_icao": "A320",
-      "equipamento": "Airbus A320",
-      "assentos": "180",
-      "etapa": "1",
-      "tipo_operacao": "Domestico",
-      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
-      "origem_icao": "SBFZ",
-      "destino_icao": "SBPB",
-      "partida_iso": "2026-05-16T14:05:00-03:00",
-      "chegada_iso": "2026-05-16T15:10:00-03:00",
-      "partida_brt": "14:05",
-      "chegada_brt": "15:10",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "SBFZ",
-      "rota_nome": "Fortaleza"
-    }
-  ],
-  "departures": [
-    {
-      "callsign": "TAM3559",
-      "numero_voo": "3559",
-      "airline_icao": "TAM",
-      "airline": "LATAM",
-      "equipamento_icao": "A320",
-      "equipamento": "Airbus A320",
-      "assentos": "180",
-      "etapa": "1",
-      "tipo_operacao": "Domestico",
-      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
-      "origem_icao": "SBPB",
-      "destino_icao": "SBFZ",
-      "partida_iso": "2026-05-16T15:55:00-03:00",
-      "chegada_iso": "2026-05-16T16:55:00-03:00",
-      "partida_brt": "15:55",
-      "chegada_brt": "16:55",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "SBFZ",
-      "rota_nome": "Fortaleza"
-    }
-  ]
+  "arrivals": [],
+  "departures": []
 }
