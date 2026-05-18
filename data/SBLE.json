@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-17T21:43:54.820736+00:00",
-  "data_referencia": "2026-05-17",
+  "updated_at": "2026-05-18T12:20:44.087955+00:00",
+  "data_referencia": "2026-05-18",
   "airport_icao": "SBLE",
   "airport_name": "SBLE",
   "airport_info": {
@@ -10,52 +10,6 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [
-    {
-      "callsign": "AZU4950",
-      "numero_voo": "4950",
-      "airline_icao": "AZU",
-      "airline": "Azul",
-      "equipamento_icao": "AT76",
-      "equipamento": "ATR 72",
-      "assentos": "70",
-      "etapa": "1",
-      "tipo_operacao": "Domestico",
-      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
-      "origem_icao": "SBSV",
-      "destino_icao": "SBLE",
-      "partida_iso": "2026-05-17T14:30:00-03:00",
-      "chegada_iso": "2026-05-17T15:40:00-03:00",
-      "partida_brt": "14:30",
-      "chegada_brt": "15:40",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "SBSV",
-      "rota_nome": "Salvador"
-    }
-  ],
-  "departures": [
-    {
-      "callsign": "AZU4951",
-      "numero_voo": "4951",
-      "airline_icao": "AZU",
-      "airline": "Azul",
-      "equipamento_icao": "AT76",
-      "equipamento": "ATR 72",
-      "assentos": "70",
-      "etapa": "1",
-      "tipo_operacao": "Domestico",
-      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
-      "origem_icao": "SBLE",
-      "destino_icao": "SBSV",
-      "partida_iso": "2026-05-17T16:10:00-03:00",
-      "chegada_iso": "2026-05-17T17:15:00-03:00",
-      "partida_brt": "16:10",
-      "chegada_brt": "17:15",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "SBSV",
-      "rota_nome": "Salvador"
-    }
-  ]
+  "arrivals": [],
+  "departures": []
 }
