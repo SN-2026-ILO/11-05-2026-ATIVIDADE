@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T14:13:21.259494+00:00",
+  "updated_at": "2026-05-22T17:02:44.061352+00:00",
   "data_referencia": "2026-05-22",
   "airport_icao": "SBMY",
   "airport_name": "SBMY",
@@ -10,6 +10,52 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [],
-  "departures": []
+  "arrivals": [
+    {
+      "callsign": "CQB2",
+      "numero_voo": "2",
+      "airline_icao": "CQB",
+      "airline": "CQB",
+      "equipamento_icao": "E110",
+      "equipamento": "E110",
+      "assentos": "15",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SWYN",
+      "destino_icao": "SBMY",
+      "partida_iso": "2026-10-01T09:50:00-03:00",
+      "chegada_iso": "2026-10-01T10:30:00-03:00",
+      "partida_brt": "09:50",
+      "chegada_brt": "10:30",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SWYN",
+      "rota_nome": "SWYN"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "CQB3",
+      "numero_voo": "3",
+      "airline_icao": "CQB",
+      "airline": "CQB",
+      "equipamento_icao": "E110",
+      "equipamento": "E110",
+      "assentos": "15",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBMY",
+      "destino_icao": "SBEG",
+      "partida_iso": "2026-10-01T11:00:00-03:00",
+      "chegada_iso": "2026-10-01T12:00:00-03:00",
+      "partida_brt": "11:00",
+      "chegada_brt": "12:00",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBEG",
+      "rota_nome": "Manaus"
+    }
+  ]
 }
