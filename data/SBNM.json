@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T17:02:44.633939+00:00",
+  "updated_at": "2026-05-22T21:57:22.702446+00:00",
   "data_referencia": "2026-05-22",
   "airport_icao": "SBNM",
   "airport_name": "SBNM",
@@ -32,28 +32,6 @@
       "fonte": "SIROS/ANAC",
       "rota": "SBPA",
       "rota_nome": "Porto Alegre"
-    },
-    {
-      "callsign": "GLO2162",
-      "numero_voo": "2162",
-      "airline_icao": "GLO",
-      "airline": "GOL",
-      "equipamento_icao": "B737",
-      "equipamento": "Boeing 737",
-      "assentos": "138",
-      "etapa": "1",
-      "tipo_operacao": "Domestico",
-      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
-      "origem_icao": "SBSP",
-      "destino_icao": "SBNM",
-      "partida_iso": "2026-10-01T12:20:00-03:00",
-      "chegada_iso": "2026-10-01T14:15:00-03:00",
-      "partida_brt": "12:20",
-      "chegada_brt": "14:15",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "SBSP",
-      "rota_nome": "Sao Paulo / Congonhas"
     }
   ],
   "departures": [
@@ -78,28 +56,6 @@
       "fonte": "SIROS/ANAC",
       "rota": "SBPA",
       "rota_nome": "Porto Alegre"
-    },
-    {
-      "callsign": "GLO2163",
-      "numero_voo": "2163",
-      "airline_icao": "GLO",
-      "airline": "GOL",
-      "equipamento_icao": "B737",
-      "equipamento": "Boeing 737",
-      "assentos": "138",
-      "etapa": "1",
-      "tipo_operacao": "Domestico",
-      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
-      "origem_icao": "SBNM",
-      "destino_icao": "SBSP",
-      "partida_iso": "2026-10-01T14:55:00-03:00",
-      "chegada_iso": "2026-10-01T16:30:00-03:00",
-      "partida_brt": "14:55",
-      "chegada_brt": "16:30",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "SBSP",
-      "rota_nome": "Sao Paulo / Congonhas"
     }
   ]
 }
