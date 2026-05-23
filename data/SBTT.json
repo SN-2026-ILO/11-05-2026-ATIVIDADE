@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-22T21:57:10.255803+00:00",
-  "data_referencia": "2026-05-22",
+  "updated_at": "2026-05-23T10:20:51.609247+00:00",
+  "data_referencia": "2026-05-23",
   "airport_icao": "SBTT",
   "airport_name": "SBTT",
   "airport_info": {
@@ -10,52 +10,6 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [
-    {
-      "callsign": "AZU2683",
-      "numero_voo": "2683",
-      "airline_icao": "AZU",
-      "airline": "Azul",
-      "equipamento_icao": "E195",
-      "equipamento": "Embraer E195",
-      "assentos": "118",
-      "etapa": "1",
-      "tipo_operacao": "Domestico",
-      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
-      "origem_icao": "SBEG",
-      "destino_icao": "SBTT",
-      "partida_iso": "2026-05-22T16:50:00-03:00",
-      "chegada_iso": "2026-05-22T18:40:00-03:00",
-      "partida_brt": "16:50",
-      "chegada_brt": "18:40",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "SBEG",
-      "rota_nome": "Manaus"
-    }
-  ],
-  "departures": [
-    {
-      "callsign": "AZU4186",
-      "numero_voo": "4186",
-      "airline_icao": "AZU",
-      "airline": "Azul",
-      "equipamento_icao": "E195",
-      "equipamento": "Embraer E195",
-      "assentos": "118",
-      "etapa": "1",
-      "tipo_operacao": "Domestico",
-      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
-      "origem_icao": "SBTT",
-      "destino_icao": "SBEG",
-      "partida_iso": "2026-05-22T19:20:00-03:00",
-      "chegada_iso": "2026-05-22T21:10:00-03:00",
-      "partida_brt": "19:20",
-      "chegada_brt": "21:10",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "SBEG",
-      "rota_nome": "Manaus"
-    }
-  ]
+  "arrivals": [],
+  "departures": []
 }
