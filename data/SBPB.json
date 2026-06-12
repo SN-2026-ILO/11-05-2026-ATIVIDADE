@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-11T22:46:29.740513+00:00",
-  "data_referencia": "2026-06-11",
+  "updated_at": "2026-06-12T12:10:57.730091+00:00",
+  "data_referencia": "2026-06-12",
   "airport_icao": "SBPB",
   "airport_name": "SBPB",
   "airport_info": {
@@ -10,52 +10,6 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [
-    {
-      "callsign": "TAM3558",
-      "numero_voo": "3558",
-      "airline_icao": "TAM",
-      "airline": "LATAM",
-      "equipamento_icao": "A319",
-      "equipamento": "Airbus A319",
-      "assentos": "144",
-      "etapa": "1",
-      "tipo_operacao": "Domestico",
-      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
-      "origem_icao": "SBFZ",
-      "destino_icao": "SBPB",
-      "partida_iso": "2026-06-11T10:55:00-03:00",
-      "chegada_iso": "2026-06-11T11:50:00-03:00",
-      "partida_brt": "10:55",
-      "chegada_brt": "11:50",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "SBFZ",
-      "rota_nome": "Fortaleza"
-    }
-  ],
-  "departures": [
-    {
-      "callsign": "TAM3559",
-      "numero_voo": "3559",
-      "airline_icao": "TAM",
-      "airline": "LATAM",
-      "equipamento_icao": "A319",
-      "equipamento": "Airbus A319",
-      "assentos": "144",
-      "etapa": "1",
-      "tipo_operacao": "Domestico",
-      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
-      "origem_icao": "SBPB",
-      "destino_icao": "SBFZ",
-      "partida_iso": "2026-06-11T12:30:00-03:00",
-      "chegada_iso": "2026-06-11T13:35:00-03:00",
-      "partida_brt": "12:30",
-      "chegada_brt": "13:35",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "SBFZ",
-      "rota_nome": "Fortaleza"
-    }
-  ]
+  "arrivals": [],
+  "departures": []
 }

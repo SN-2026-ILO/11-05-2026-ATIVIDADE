@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-11T22:46:37.303671+00:00",
-  "data_referencia": "2026-06-11",
+  "updated_at": "2026-06-12T12:11:03.916821+00:00",
+  "data_referencia": "2026-06-12",
   "airport_icao": "SBTU",
   "airport_name": "SBTU",
   "airport_info": {
@@ -10,52 +10,6 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [
-    {
-      "callsign": "ACN5327",
-      "numero_voo": "5327",
-      "airline_icao": "ACN",
-      "airline": "ACN",
-      "equipamento_icao": "C208",
-      "equipamento": "C208",
-      "assentos": "9",
-      "etapa": "1",
-      "tipo_operacao": "Domestico",
-      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
-      "origem_icao": "SBBE",
-      "destino_icao": "SBTU",
-      "partida_iso": "2026-06-11T08:00:00-03:00",
-      "chegada_iso": "2026-06-11T09:25:00-03:00",
-      "partida_brt": "08:00",
-      "chegada_brt": "09:25",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "SBBE",
-      "rota_nome": "Belem"
-    }
-  ],
-  "departures": [
-    {
-      "callsign": "ACN5327",
-      "numero_voo": "5327",
-      "airline_icao": "ACN",
-      "airline": "ACN",
-      "equipamento_icao": "C208",
-      "equipamento": "C208",
-      "assentos": "9",
-      "etapa": "2",
-      "tipo_operacao": "Domestico",
-      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
-      "origem_icao": "SBTU",
-      "destino_icao": "SNEB",
-      "partida_iso": "2026-06-11T09:50:00-03:00",
-      "chegada_iso": "2026-06-11T11:10:00-03:00",
-      "partida_brt": "09:50",
-      "chegada_brt": "11:10",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "SNEB",
-      "rota_nome": "SNEB"
-    }
-  ]
+  "arrivals": [],
+  "departures": []
 }
