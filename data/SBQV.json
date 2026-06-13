@@ -1,13 +1,9 @@
 {
-  "updated_at": "2026-06-12T22:18:04.029830+00:00",
-  "data_referencia": "2026-06-12",
+  "updated_at": "2026-06-13T11:08:52.198868+00:00",
+  "data_referencia": "2026-06-13",
   "airport_icao": "SBQV",
   "airport_name": "SBQV",
-  "airport_info": {
-    "sg_aerodromo_icao": "SBQV",
-    "sg_aerodromo_iata": "VD*",
-    "descricao": "VITÓRIA DA CONQUISTA - VITÓRIA DA CONQUISTA - BA - BRASIL"
-  },
+  "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [],

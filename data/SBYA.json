@@ -1,13 +1,9 @@
 {
-  "updated_at": "2026-06-12T22:17:49.324879+00:00",
-  "data_referencia": "2026-06-12",
+  "updated_at": "2026-06-13T11:08:36.440880+00:00",
+  "data_referencia": "2026-06-13",
   "airport_icao": "SBYA",
   "airport_name": "SBYA",
-  "airport_info": {
-    "sg_aerodromo_icao": "SBYA",
-    "sg_aerodromo_iata": "",
-    "descricao": "IAUARETÊ - SÃO GABRIEL DA CACHOEIRA - AM - BRASIL"
-  },
+  "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [],

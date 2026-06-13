@@ -1,13 +1,9 @@
 {
-  "updated_at": "2026-06-12T22:18:08.371844+00:00",
-  "data_referencia": "2026-06-12",
+  "updated_at": "2026-06-13T11:08:56.296378+00:00",
+  "data_referencia": "2026-06-13",
   "airport_icao": "SBGM",
   "airport_name": "SBGM",
-  "airport_info": {
-    "sg_aerodromo_icao": "SBGM",
-    "sg_aerodromo_iata": "GJM",
-    "descricao": "GUAJARÁ-MIRIM - GUAJARÁ-MIRIM - RO - BRASIL"
-  },
+  "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [],
