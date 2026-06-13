@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:29.630716+00:00",
+  "updated_at": "2026-06-13T13:21:14.947385+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBMA",
   "airport_name": "SBMA",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBMA",
+    "sg_aerodromo_iata": "MAB",
+    "descricao": "JOÃO CORREA DA ROCHA - MARABÁ - PA - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

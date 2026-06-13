@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:40.067256+00:00",
+  "updated_at": "2026-06-13T13:21:26.614604+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBJU",
   "airport_name": "Juazeiro do Norte",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBJU",
+    "sg_aerodromo_iata": "JDO",
+    "descricao": "ORLANDO BEZERRA DE MENEZES - JUAZEIRO DO NORTE - CE - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

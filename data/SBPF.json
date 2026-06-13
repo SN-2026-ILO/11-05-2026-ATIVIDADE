@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:35.250533+00:00",
+  "updated_at": "2026-06-13T13:21:21.872656+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBPF",
   "airport_name": "SBPF",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBPF",
+    "sg_aerodromo_iata": "PFB",
+    "descricao": "LAURO KURTZ - PASSO FUNDO - RS - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

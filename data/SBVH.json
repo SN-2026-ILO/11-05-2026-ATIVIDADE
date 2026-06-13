@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:09:06.169673+00:00",
+  "updated_at": "2026-06-13T13:21:57.725475+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBVH",
   "airport_name": "SBVH",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBVH",
+    "sg_aerodromo_iata": "BVH",
+    "descricao": "VILHENA - VILHENA - RO - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

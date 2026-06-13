@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:26.246855+00:00",
+  "updated_at": "2026-06-13T13:21:11.697439+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBNF",
   "airport_name": "Navegantes",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBNF",
+    "sg_aerodromo_iata": "NVT",
+    "descricao": "MINISTRO VICTOR KONDER - NAVEGANTES - SC - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

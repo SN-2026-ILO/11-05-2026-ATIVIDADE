@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:58.857745+00:00",
+  "updated_at": "2026-06-13T13:21:49.620273+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBMY",
   "airport_name": "SBMY",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBMY",
+    "sg_aerodromo_iata": "MNX",
+    "descricao": "MANICORÉ - MANICORÉ - AM - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [],

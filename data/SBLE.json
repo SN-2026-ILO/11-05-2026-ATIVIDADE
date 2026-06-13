@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:39.042340+00:00",
+  "updated_at": "2026-06-13T13:21:25.199802+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBLE",
   "airport_name": "SBLE",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBLE",
+    "sg_aerodromo_iata": "LEC",
+    "descricao": "HORÁCIO DE MATTOS - LENÇÓIS - BA - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [],

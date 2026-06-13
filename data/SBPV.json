@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:26.747547+00:00",
+  "updated_at": "2026-06-13T13:21:12.242316+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBPV",
   "airport_name": "Porto Velho",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBPV",
+    "sg_aerodromo_iata": "PVH",
+    "descricao": "GOVERNADOR JORGE TEIXEIRA DE OLIVEIRA - PORTO VELHO - RO - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

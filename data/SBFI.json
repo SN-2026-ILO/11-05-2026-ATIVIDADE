@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:24.377081+00:00",
+  "updated_at": "2026-06-13T13:21:09.769743+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBFI",
   "airport_name": "Foz do Iguacu",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBFI",
+    "sg_aerodromo_iata": "IGU",
+    "descricao": "CATARATAS - FOZ DO IGUAÇU - PR - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

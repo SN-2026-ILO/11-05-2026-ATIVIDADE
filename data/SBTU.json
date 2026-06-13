@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:49.265879+00:00",
+  "updated_at": "2026-06-13T13:21:38.150383+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBTU",
   "airport_name": "SBTU",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBTU",
+    "sg_aerodromo_iata": "TUR",
+    "descricao": "TUCURUÍ - TUCURUÍ - PA - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

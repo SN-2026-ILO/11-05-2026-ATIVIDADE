@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:45.167468+00:00",
+  "updated_at": "2026-06-13T13:21:33.572806+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBRP",
   "airport_name": "Ribeirao Preto",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBRP",
+    "sg_aerodromo_iata": "RAO",
+    "descricao": "LEITE LOPES - RIBEIRÃO PRETO - SP - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

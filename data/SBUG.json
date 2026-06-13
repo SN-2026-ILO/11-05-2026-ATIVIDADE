@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:34.739285+00:00",
+  "updated_at": "2026-06-13T13:21:21.331379+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBUG",
   "airport_name": "SBUG",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBUG",
+    "sg_aerodromo_iata": "URG",
+    "descricao": "RUBEM BERTA - URUGUAIANA - RS - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [],

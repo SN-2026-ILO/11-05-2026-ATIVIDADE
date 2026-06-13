@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:33.220762+00:00",
+  "updated_at": "2026-06-13T13:21:19.687156+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBPK",
   "airport_name": "SBPK",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBPK",
+    "sg_aerodromo_iata": "PET",
+    "descricao": "JOÃO SIMÕES LOPES NETO - PELOTAS - RS - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

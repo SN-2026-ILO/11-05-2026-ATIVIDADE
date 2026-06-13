@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:30.652054+00:00",
+  "updated_at": "2026-06-13T13:21:16.807626+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBAA",
   "airport_name": "SBAA",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBAA",
+    "sg_aerodromo_iata": "CDJ",
+    "descricao": "CONCEIÇÃO DO ARAGUAIA - CONCEIÇÃO DO ARAGUAIA - PA - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [],

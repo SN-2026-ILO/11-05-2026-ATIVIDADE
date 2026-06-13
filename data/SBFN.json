@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:55.784109+00:00",
+  "updated_at": "2026-06-13T13:21:45.367553+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBFN",
   "airport_name": "SBFN",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBFN",
+    "sg_aerodromo_iata": "FEN",
+    "descricao": "FERNANDO DE NORONHA - FERNANDO DE NORONHA - PE - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

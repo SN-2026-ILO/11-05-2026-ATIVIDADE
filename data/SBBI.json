@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:53.739484+00:00",
+  "updated_at": "2026-06-13T13:21:42.893065+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBBI",
   "airport_name": "SBBI",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBBI",
+    "sg_aerodromo_iata": "BFH",
+    "descricao": "BACACHERI - CURITIBA - PR - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [],

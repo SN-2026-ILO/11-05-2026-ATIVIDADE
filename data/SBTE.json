@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:22.325738+00:00",
+  "updated_at": "2026-06-13T13:21:07.268533+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBTE",
   "airport_name": "Teresina",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBTE",
+    "sg_aerodromo_iata": "THE",
+    "descricao": "SENADOR PETRÔNIO PORTELLA - TERESINA - PI - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

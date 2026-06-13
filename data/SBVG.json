@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:09:05.663317+00:00",
+  "updated_at": "2026-06-13T13:21:57.179092+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBVG",
   "airport_name": "SBVG",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBVG",
+    "sg_aerodromo_iata": "VAG",
+    "descricao": "MAJOR BRIGADEIRO TROMPOWSKY - VARGINHA - MG - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [],

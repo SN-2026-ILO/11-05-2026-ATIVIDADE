@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:09:06.685126+00:00",
+  "updated_at": "2026-06-13T13:21:58.266081+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBZM",
   "airport_name": "SBZM",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBZM",
+    "sg_aerodromo_iata": "IZA",
+    "descricao": "PRESIDENTE ITAMAR FRANCO - GOIANÁ - MG - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

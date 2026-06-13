@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:41.071369+00:00",
+  "updated_at": "2026-06-13T13:21:27.700534+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBJE",
   "airport_name": "SBJE",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBJE",
+    "sg_aerodromo_iata": "JJD",
+    "descricao": "COMANDANTE ARISTON PESSOA - CRUZ - CE - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

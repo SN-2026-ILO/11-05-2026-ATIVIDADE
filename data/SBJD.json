@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:57.329551+00:00",
+  "updated_at": "2026-06-13T13:21:47.391038+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBJD",
   "airport_name": "SBJD",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBJD",
+    "sg_aerodromo_iata": "QDV",
+    "descricao": "COMANDANTE ROLIM ADOLFO AMARO - JUNDIAÍ - SP - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [],

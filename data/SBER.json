@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:35.767125+00:00",
+  "updated_at": "2026-06-13T13:21:22.716922+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBER",
   "airport_name": "SBER",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBER",
+    "sg_aerodromo_iata": "",
+    "descricao": "EIRUNEPE - EIRUNEPÉ - AM - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [],

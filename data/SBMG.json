@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:31.169130+00:00",
+  "updated_at": "2026-06-13T13:21:17.360493+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBMG",
   "airport_name": "Maringa",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBMG",
+    "sg_aerodromo_iata": "MGF",
+    "descricao": "SÍLVIO NAME JÚNIOR - MARINGÁ - PR - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

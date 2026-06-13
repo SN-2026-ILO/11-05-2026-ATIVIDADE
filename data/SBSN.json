@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:09:03.105818+00:00",
+  "updated_at": "2026-06-13T13:21:54.463930+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBSN",
   "airport_name": "Santarem",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBSN",
+    "sg_aerodromo_iata": "STM",
+    "descricao": "MAESTRO WILSON FONSECA - SANTARÉM - PA - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

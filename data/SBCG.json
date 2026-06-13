@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:54.761499+00:00",
+  "updated_at": "2026-06-13T13:21:43.980883+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBCG",
   "airport_name": "Campo Grande",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBCG",
+    "sg_aerodromo_iata": "CGR",
+    "descricao": "CAMPO GRANDE - CAMPO GRANDE - MS - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

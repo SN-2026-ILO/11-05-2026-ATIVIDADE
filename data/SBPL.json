@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:09:01.066133+00:00",
+  "updated_at": "2026-06-13T13:21:52.264685+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBPL",
   "airport_name": "SBPL",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBPL",
+    "sg_aerodromo_iata": "PNZ",
+    "descricao": "SENADOR NILO COELHO - PETROLINA - PE - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

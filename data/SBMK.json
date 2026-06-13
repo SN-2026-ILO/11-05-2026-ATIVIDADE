@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:41.586974+00:00",
+  "updated_at": "2026-06-13T13:21:28.241509+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBMK",
   "airport_name": "SBMK",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBMK",
+    "sg_aerodromo_iata": "MOC",
+    "descricao": "MÁRIO RIBEIRO - MONTES CLAROS - MG - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

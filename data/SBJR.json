@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:57.836073+00:00",
+  "updated_at": "2026-06-13T13:21:48.240846+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBJR",
   "airport_name": "SBJR",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBJR",
+    "sg_aerodromo_iata": "ZZJ",
+    "descricao": "JACAREPAGUÁ - ROBERTO MARINHO - RIO DE JANEIRO - RJ - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

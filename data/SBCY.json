@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-13T11:08:23.350109+00:00",
+  "updated_at": "2026-06-13T13:21:08.367076+00:00",
   "data_referencia": "2026-06-13",
   "airport_icao": "SBCY",
   "airport_name": "Cuiaba",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBCY",
+    "sg_aerodromo_iata": "CGB",
+    "descricao": "MARECHAL RONDON - VÁRZEA GRANDE - MT - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
