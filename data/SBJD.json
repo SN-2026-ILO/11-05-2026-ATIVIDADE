@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-16T22:47:06.677866+00:00",
-  "data_referencia": "2026-06-16",
+  "updated_at": "2026-06-17T12:45:01.235298+00:00",
+  "data_referencia": "2026-06-17",
   "airport_icao": "SBJD",
   "airport_name": "SBJD",
   "airport_info": {
-    "sg_aerodromo_icao": "SBCT",
-    "sg_aerodromo_iata": "CWB",
-    "descricao": "AFONSO PENA - CURITIBA - PR - BRASIL"
+    "sg_aerodromo_icao": "SBJD",
+    "sg_aerodromo_iata": "QDV",
+    "descricao": "COMANDANTE ROLIM ADOLFO AMARO - JUNDIAÍ - SP - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
