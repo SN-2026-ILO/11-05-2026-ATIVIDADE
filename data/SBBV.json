@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-22T14:23:30.633009+00:00",
+  "updated_at": "2026-06-22T18:39:45.777980+00:00",
   "data_referencia": "2026-06-22",
   "airport_icao": "SBBV",
   "airport_name": "Boa Vista",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBBV",
+    "sg_aerodromo_iata": "BVB",
+    "descricao": "ATLAS BRASIL CANTANHEDE - BOA VISTA - RR - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
