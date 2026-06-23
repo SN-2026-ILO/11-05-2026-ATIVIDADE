@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-23T14:21:56.549485+00:00",
+  "updated_at": "2026-06-23T17:10:19.858937+00:00",
   "data_referencia": "2026-06-23",
   "airport_icao": "SBSJ",
   "airport_name": "SBSJ",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBSJ",
+    "sg_aerodromo_iata": "SJK",
+    "descricao": "PROFESSOR URBANO ERNESTO STUMPF - SÃO JOSÉ DOS CAMPOS - SP - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [],
