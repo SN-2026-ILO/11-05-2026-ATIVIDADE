@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-24T22:06:33.678418+00:00",
-  "data_referencia": "2026-06-24",
+  "updated_at": "2026-06-25T11:31:49.241030+00:00",
+  "data_referencia": "2026-06-25",
   "airport_icao": "SBLE",
   "airport_name": "SBLE",
   "airport_info": {
@@ -10,6 +10,52 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [],
-  "departures": []
+  "arrivals": [
+    {
+      "callsign": "AZU4248",
+      "numero_voo": "4248",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "AT76",
+      "equipamento": "ATR 72",
+      "assentos": "70",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBCF",
+      "destino_icao": "SBLE",
+      "partida_iso": "2026-06-25T08:35:00-03:00",
+      "chegada_iso": "2026-06-25T11:00:00-03:00",
+      "partida_brt": "08:35",
+      "chegada_brt": "11:00",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBCF",
+      "rota_nome": "Belo Horizonte / Confins"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "AZU4249",
+      "numero_voo": "4249",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "AT76",
+      "equipamento": "ATR 72",
+      "assentos": "70",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBLE",
+      "destino_icao": "SBSV",
+      "partida_iso": "2026-06-25T11:30:00-03:00",
+      "chegada_iso": "2026-06-25T12:35:00-03:00",
+      "partida_brt": "11:30",
+      "chegada_brt": "12:35",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBSV",
+      "rota_nome": "Salvador"
+    }
+  ]
 }
