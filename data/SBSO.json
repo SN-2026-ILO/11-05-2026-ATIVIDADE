@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-27T15:58:41.955472+00:00",
+  "updated_at": "2026-06-27T21:52:32.056767+00:00",
   "data_referencia": "2026-06-27",
   "airport_icao": "SBSO",
   "airport_name": "SBSO",
   "airport_info": {
-    "sg_aerodromo_icao": "SBJP",
-    "sg_aerodromo_iata": "JPA",
-    "descricao": "PRESIDENTE CASTRO PINTO - JOÃO PESSOA - PB - BRASIL"
+    "sg_aerodromo_icao": "SBSO",
+    "sg_aerodromo_iata": "SMT",
+    "descricao": "REGIONAL DE SORRISO ADOLINO BEDIN (SDSS*) - SORRISO - MT - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
