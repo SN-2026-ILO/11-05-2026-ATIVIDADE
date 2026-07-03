@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-03T16:18:40.652858+00:00",
+  "updated_at": "2026-07-03T21:56:02.343849+00:00",
   "data_referencia": "2026-07-03",
   "airport_icao": "SBSC",
   "airport_name": "SBSC",
   "airport_info": {
-    "sg_aerodromo_icao": "SBJA",
-    "sg_aerodromo_iata": "JJG",
-    "descricao": "REGIONAL SUL - JAGUARUNA - SC - BRASIL"
+    "sg_aerodromo_icao": "SBSC",
+    "sg_aerodromo_iata": "",
+    "descricao": "BARTOLOMEU DE GUSMAO   - RIO DE JANEIRO - RJ - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
