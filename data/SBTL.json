@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-14T13:03:09.354464+00:00",
+  "updated_at": "2026-07-14T16:08:15.378583+00:00",
   "data_referencia": "2026-07-14",
   "airport_icao": "SBTL",
   "airport_name": "SBTL",
   "airport_info": {
-    "sg_aerodromo_icao": "SBTL",
-    "sg_aerodromo_iata": "",
-    "descricao": "TELÊMACO BORBA - TELÊMACO BORBA - PR - BRASIL"
+    "sg_aerodromo_icao": "SBLO",
+    "sg_aerodromo_iata": "LDB",
+    "descricao": "GOVERNADOR JOSÉ RICHA - LONDRINA - PR - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
