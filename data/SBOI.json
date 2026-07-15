@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T16:13:05.148549+00:00",
+  "updated_at": "2026-07-15T21:46:03.983167+00:00",
   "data_referencia": "2026-07-15",
   "airport_icao": "SBOI",
   "airport_name": "SBOI",
@@ -11,6 +11,28 @@
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
+    {
+      "callsign": "AZU9594",
+      "numero_voo": "9594",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "AT76",
+      "equipamento": "ATR 72",
+      "assentos": "70",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "NÃO REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBMQ",
+      "destino_icao": "SBOI",
+      "partida_iso": "2026-07-14T11:10:00-03:00",
+      "chegada_iso": "2026-07-14T12:25:00-03:00",
+      "partida_brt": "11:10",
+      "chegada_brt": "12:25",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBMQ",
+      "rota_nome": "Macapa"
+    },
     {
       "callsign": "AZU9590",
       "numero_voo": "9590",
@@ -57,6 +79,28 @@
     }
   ],
   "departures": [
+    {
+      "callsign": "AZU9595",
+      "numero_voo": "9595",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "AT76",
+      "equipamento": "ATR 72",
+      "assentos": "70",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "NÃO REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBOI",
+      "destino_icao": "SBMQ",
+      "partida_iso": "2026-07-14T13:30:00-03:00",
+      "chegada_iso": "2026-07-14T14:45:00-03:00",
+      "partida_brt": "13:30",
+      "chegada_brt": "14:45",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBMQ",
+      "rota_nome": "Macapa"
+    },
     {
       "callsign": "AZU9591",
       "numero_voo": "9591",

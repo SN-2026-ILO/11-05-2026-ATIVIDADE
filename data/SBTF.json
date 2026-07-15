@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T16:12:51.456815+00:00",
+  "updated_at": "2026-07-15T21:45:47.114413+00:00",
   "data_referencia": "2026-07-15",
   "airport_icao": "SBTF",
   "airport_name": "SBTF",
@@ -11,6 +11,28 @@
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
+    {
+      "callsign": "AZU4183",
+      "numero_voo": "4183",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "AT76",
+      "equipamento": "ATR 72",
+      "assentos": "70",
+      "etapa": "2",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBTT",
+      "destino_icao": "SBTF",
+      "partida_iso": "2026-07-14T12:15:00-03:00",
+      "chegada_iso": "2026-07-14T14:00:00-03:00",
+      "partida_brt": "12:15",
+      "chegada_brt": "14:00",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBTT",
+      "rota_nome": "SBTT"
+    },
     {
       "callsign": "AZU2683",
       "numero_voo": "2683",
@@ -35,6 +57,28 @@
     }
   ],
   "departures": [
+    {
+      "callsign": "AZU4183",
+      "numero_voo": "4183",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "AT76",
+      "equipamento": "ATR 72",
+      "assentos": "70",
+      "etapa": "3",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBTF",
+      "destino_icao": "SBEG",
+      "partida_iso": "2026-07-14T14:35:00-03:00",
+      "chegada_iso": "2026-07-14T16:05:00-03:00",
+      "partida_brt": "14:35",
+      "chegada_brt": "16:05",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBEG",
+      "rota_nome": "Manaus"
+    },
     {
       "callsign": "AZU2683",
       "numero_voo": "2683",
