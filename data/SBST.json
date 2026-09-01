@@ -1,13 +1,9 @@
 {
-  "updated_at": "2026-09-01T18:02:05.146419+00:00",
+  "updated_at": "2026-09-01T22:53:08.412834+00:00",
   "data_referencia": "2026-09-01",
   "airport_icao": "SBST",
   "airport_name": "SBST",
-  "airport_info": {
-    "sg_aerodromo_icao": "SBST",
-    "sg_aerodromo_iata": "",
-    "descricao": "BASE AEREA - SANTOS - SP - BRASIL"
-  },
+  "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [],
