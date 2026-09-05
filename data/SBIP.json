@@ -1,13 +1,9 @@
 {
-  "updated_at": "2026-09-05T16:59:50.647847+00:00",
+  "updated_at": "2026-09-05T22:28:41.804583+00:00",
   "data_referencia": "2026-09-05",
   "airport_icao": "SBIP",
   "airport_name": "SBIP",
-  "airport_info": {
-    "sg_aerodromo_icao": "SBIP",
-    "sg_aerodromo_iata": "IPN",
-    "descricao": "USIMINAS - SANTANA DO PARAÍSO - MG - BRASIL"
-  },
+  "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
