@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T17:31:17.844917+00:00",
+  "updated_at": "2026-09-12T22:42:23.351322+00:00",
   "data_referencia": "2026-09-12",
   "airport_icao": "SBVH",
   "airport_name": "SBVH",
@@ -32,6 +32,28 @@
       "fonte": "SIROS/ANAC",
       "rota": "SBCY",
       "rota_nome": "Cuiaba"
+    },
+    {
+      "callsign": "AZU4808",
+      "numero_voo": "4808",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "E295",
+      "equipamento": "Embraer E195-E2",
+      "assentos": "136",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBKP",
+      "destino_icao": "SBVH",
+      "partida_iso": "2026-09-28T14:05:00-03:00",
+      "chegada_iso": "2026-09-28T17:05:00-03:00",
+      "partida_brt": "14:05",
+      "chegada_brt": "17:05",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBKP",
+      "rota_nome": "Campinas / Viracopos"
     }
   ],
   "departures": [
@@ -56,6 +78,28 @@
       "fonte": "SIROS/ANAC",
       "rota": "SBCY",
       "rota_nome": "Cuiaba"
+    },
+    {
+      "callsign": "AZU4809",
+      "numero_voo": "4809",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "E295",
+      "equipamento": "Embraer E195-E2",
+      "assentos": "136",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBVH",
+      "destino_icao": "SBKP",
+      "partida_iso": "2026-09-28T17:50:00-03:00",
+      "chegada_iso": "2026-09-28T20:30:00-03:00",
+      "partida_brt": "17:50",
+      "chegada_brt": "20:30",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBKP",
+      "rota_nome": "Campinas / Viracopos"
     }
   ]
 }
