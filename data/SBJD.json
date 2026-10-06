@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T01:35:37.157774+00:00",
-  "data_referencia": "2026-10-05",
+  "updated_at": "2026-10-06T15:32:00.542331+00:00",
+  "data_referencia": "2026-10-06",
   "airport_icao": "SBJD",
   "airport_name": "SBJD",
   "airport_info": {
@@ -11,5 +11,28 @@
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [],
-  "departures": []
+  "departures": [
+    {
+      "callsign": "ACN5952",
+      "numero_voo": "5952",
+      "airline_icao": "ACN",
+      "airline": "ACN",
+      "equipamento_icao": "C408",
+      "equipamento": "C408",
+      "assentos": "19",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "NÃO REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBJD",
+      "destino_icao": "SBFL",
+      "partida_iso": "2026-10-06T09:15:00-03:00",
+      "chegada_iso": "2026-10-06T11:15:00-03:00",
+      "partida_brt": "09:15",
+      "chegada_brt": "11:15",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBFL",
+      "rota_nome": "Florianopolis"
+    }
+  ]
 }
