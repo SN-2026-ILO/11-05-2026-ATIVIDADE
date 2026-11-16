@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-15T15:57:03.874850+00:00",
+  "updated_at": "2026-11-16T00:29:48.553795+00:00",
   "data_referencia": "2026-11-15",
   "airport_icao": "SBJP",
   "airport_name": "Joao Pessoa",
   "airport_info": {
-    "sg_aerodromo_icao": "SBCT",
-    "sg_aerodromo_iata": "CWB",
-    "descricao": "AFONSO PENA - CURITIBA - PR - BRASIL"
+    "sg_aerodromo_icao": "SBJP",
+    "sg_aerodromo_iata": "JPA",
+    "descricao": "PRESIDENTE CASTRO PINTO - JOÃO PESSOA - PB - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
