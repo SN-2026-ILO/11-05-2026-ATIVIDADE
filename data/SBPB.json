@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T02:39:15.523648+00:00",
-  "data_referencia": "2026-11-17",
+  "updated_at": "2026-11-18T17:39:51.709785+00:00",
+  "data_referencia": "2026-11-18",
   "airport_icao": "SBPB",
   "airport_name": "SBPB",
   "airport_info": {
@@ -10,6 +10,52 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [],
-  "departures": []
+  "arrivals": [
+    {
+      "callsign": "AZU2950",
+      "numero_voo": "2950",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "E295",
+      "equipamento": "Embraer E195-E2",
+      "assentos": "136",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBCF",
+      "destino_icao": "SBPB",
+      "partida_iso": "2026-11-18T12:55:00-03:00",
+      "chegada_iso": "2026-11-18T15:45:00-03:00",
+      "partida_brt": "12:55",
+      "chegada_brt": "15:45",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBCF",
+      "rota_nome": "Belo Horizonte / Confins"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "AZU2950",
+      "numero_voo": "2950",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "E295",
+      "equipamento": "Embraer E195-E2",
+      "assentos": "136",
+      "etapa": "2",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBPB",
+      "destino_icao": "SBTE",
+      "partida_iso": "2026-11-18T16:30:00-03:00",
+      "chegada_iso": "2026-11-18T17:30:00-03:00",
+      "partida_brt": "16:30",
+      "chegada_brt": "17:30",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBTE",
+      "rota_nome": "Teresina"
+    }
+  ]
 }
